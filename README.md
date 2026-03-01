@@ -11,7 +11,7 @@ I am a software developer with a knack for creating efficient and elegant soluti
 CSS, HTML, JS, Discord, DiscordJS, C, AI, Python, Pytorch, Go, Java
 
 ## GitHub Stats
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veliqq&show_icons=true&theme=radical) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veliqq&show_icons=true&theme=radical)
 
 ## Latest Blog Posts
 
